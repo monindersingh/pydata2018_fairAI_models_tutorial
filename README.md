@@ -1,11 +1,11 @@
 # Building Fair AI models tutorial at PyData New York, 2018
 
 
-###This tutorial uses an open source Python package named [AI Fairness 360 or AIF360](https://github.com/ibm/aif360). 
+### This tutorial uses an open source Python package named [AI Fairness 360 or AIF360](https://github.com/ibm/aif360). 
 
-###Please visit the above site and follow instructions to install the package.
+### Please visit the above site and follow instructions to install the package.
 
-###Additionally, download datasets following instructions at [https://github.com/IBM/AIF360/tree/master/aif360/data](https://github.com/IBM/AIF360/tree/master/aif360/data)
+### Additionally, download datasets following instructions at [https://github.com/IBM/AIF360/tree/master/aif360/data](https://github.com/IBM/AIF360/tree/master/aif360/data)
 
 
 
@@ -37,7 +37,7 @@ Download datasets and place under appropriate folders under AIF360/aif360/data/r
 ```bash
 git clone https://github.com/monindersingh/pydata2018_fairAI_models_tutorial.git
 ```
-Change to the root folder and run
+Change to the root folder of just cloned repository and run
 
 ```bash
 jupyter notebook pydata_datasets.ipynb
